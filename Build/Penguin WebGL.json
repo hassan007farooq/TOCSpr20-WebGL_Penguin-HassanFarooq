@@ -1,6 +1,6 @@
 {
 "companyName": "DefaultCompany",
-"productName": "p1",
+"productName": "PenguinGame",
 "productVersion": "0.1",
 "dataUrl": "Penguin WebGL.data.unityweb",
 "wasmCodeUrl": "Penguin WebGL.wasm.code.unityweb",
